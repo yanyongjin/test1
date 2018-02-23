@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.DemoApplicationTests" time="0.063" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/yanyongjin/Documents/IDEA/git/github_test"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/yanyongjin/Documents/IDEA/git/github_test"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/tv/hy99sbhx7bbc_3t9nls30rhc0000gn/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="socksProxyPort" value="63555"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/opt/maven3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/yanyongjin/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="maven.test.failure.ignore" value="true"/>
+    <property name="os.version" value="10.13.2"/>
+    <property name="http.nonProxyHosts" value="360.cn|*.360.cn|ali.com|*.ali.com|alibaba-inc.com|*.alibaba-inc.com|alibaba.com|*.alibaba.com|alibaba.net|*.alibaba.net|alibabacorp.com|*.alibabacorp.com|alicdn.com|*.alicdn.com|aliexpress.com|*.aliexpress.com|alikunlun.com|*.alikunlun.com|alipay-corp.com|*.alipay-corp.com|alipay-inc.com|*.alipay-inc.com|alipay.com|*.alipay.com|alipay.net|*.alipay.net|alipayobjects.com|*.alipayobjects.com|alitrip.com|*.alitrip.com|aliway.com|*.aliway.com|aliyun-inc.com|*.aliyun-inc.com|aliyuncs.com|*.aliyuncs.com|alizoo.com|*.alizoo.com|amap.com|*.amap.com|antfinancial-corp.com|*.antfinancial-corp.com|antsdaq-corp.com|*.antsdaq-corp.com|anyproxy.io|*.anyproxy.io|atatech.org|*.atatech.org|baidu.com|*.baidu.com|cainiao-inc.com|*.cainiao-inc.com|cnzz.com|*.cnzz.com|dingtalk.com|*.dingtalk.com|koubei-corp.com|*.koubei-corp.com|mayibank.net|*.mayibank.net|mmstat.com|*.mmstat.com|mybank-corp.cn|*.mybank-corp.cn|qq.com|*.qq.com|taobao.com|*.taobao.com|taobao.net|*.taobao.net|taobao.org|*.taobao.org|tbcdn.cn|*.tbcdn.cn|tbsite.net|*.tbsite.net|tmall.net|*.tmall.net|weiyun.com|*.weiyun.com|yunos-inc.com|*.yunos-inc.com|yunos.com|*.yunos.com|zmxy-corp.com.cn|*.zmxy-corp.com.cn|cloudprinter-hz.taobao.ali.com|*.cloudprinter-hz.taobao.ali.com|weibo.com|*.weibo.com"/>
+    <property name="user.home" value="/Users/yanyongjin"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="yanyongjin"/>
+    <property name="java.class.path" value="/opt/maven3/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="socksProxyHost" value="127.0.0.1"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dmaven.test.failure.ignore clean package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="user.language.format" value="en"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="/Users/yanyongjin/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/opt/maven3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="360.cn|*.360.cn|ali.com|*.ali.com|alibaba-inc.com|*.alibaba-inc.com|alibaba.com|*.alibaba.com|alibaba.net|*.alibaba.net|alibabacorp.com|*.alibabacorp.com|alicdn.com|*.alicdn.com|aliexpress.com|*.aliexpress.com|alikunlun.com|*.alikunlun.com|alipay-corp.com|*.alipay-corp.com|alipay-inc.com|*.alipay-inc.com|alipay.com|*.alipay.com|alipay.net|*.alipay.net|alipayobjects.com|*.alipayobjects.com|alitrip.com|*.alitrip.com|aliway.com|*.aliway.com|aliyun-inc.com|*.aliyun-inc.com|aliyuncs.com|*.aliyuncs.com|alizoo.com|*.alizoo.com|amap.com|*.amap.com|antfinancial-corp.com|*.antfinancial-corp.com|antsdaq-corp.com|*.antsdaq-corp.com|anyproxy.io|*.anyproxy.io|atatech.org|*.atatech.org|baidu.com|*.baidu.com|cainiao-inc.com|*.cainiao-inc.com|cnzz.com|*.cnzz.com|dingtalk.com|*.dingtalk.com|koubei-corp.com|*.koubei-corp.com|mayibank.net|*.mayibank.net|mmstat.com|*.mmstat.com|mybank-corp.cn|*.mybank-corp.cn|qq.com|*.qq.com|taobao.com|*.taobao.com|taobao.net|*.taobao.net|taobao.org|*.taobao.org|tbcdn.cn|*.tbcdn.cn|tbsite.net|*.tbsite.net|tmall.net|*.tmall.net|weiyun.com|*.weiyun.com|yunos-inc.com|*.yunos-inc.com|yunos.com|*.yunos.com|zmxy-corp.com.cn|*.zmxy-corp.com.cn|cloudprinter-hz.taobao.ali.com|*.cloudprinter-hz.taobao.ali.com|weibo.com|*.weibo.com"/>
+    <property name="ftp.nonProxyHosts" value="360.cn|*.360.cn|ali.com|*.ali.com|alibaba-inc.com|*.alibaba-inc.com|alibaba.com|*.alibaba.com|alibaba.net|*.alibaba.net|alibabacorp.com|*.alibabacorp.com|alicdn.com|*.alicdn.com|aliexpress.com|*.aliexpress.com|alikunlun.com|*.alikunlun.com|alipay-corp.com|*.alipay-corp.com|alipay-inc.com|*.alipay-inc.com|alipay.com|*.alipay.com|alipay.net|*.alipay.net|alipayobjects.com|*.alipayobjects.com|alitrip.com|*.alitrip.com|aliway.com|*.aliway.com|aliyun-inc.com|*.aliyun-inc.com|aliyuncs.com|*.aliyuncs.com|alizoo.com|*.alizoo.com|amap.com|*.amap.com|antfinancial-corp.com|*.antfinancial-corp.com|antsdaq-corp.com|*.antsdaq-corp.com|anyproxy.io|*.anyproxy.io|atatech.org|*.atatech.org|baidu.com|*.baidu.com|cainiao-inc.com|*.cainiao-inc.com|cnzz.com|*.cnzz.com|dingtalk.com|*.dingtalk.com|koubei-corp.com|*.koubei-corp.com|mayibank.net|*.mayibank.net|mmstat.com|*.mmstat.com|mybank-corp.cn|*.mybank-corp.cn|qq.com|*.qq.com|taobao.com|*.taobao.com|taobao.net|*.taobao.net|taobao.org|*.taobao.org|tbcdn.cn|*.tbcdn.cn|tbsite.net|*.tbsite.net|tmall.net|*.tmall.net|weiyun.com|*.weiyun.com|yunos-inc.com|*.yunos-inc.com|yunos.com|*.yunos.com|zmxy-corp.com.cn|*.zmxy-corp.com.cn|cloudprinter-hz.taobao.ali.com|*.cloudprinter-hz.taobao.ali.com|weibo.com|*.weibo.com"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="contextLoads" classname="com.example.demo.DemoApplicationTests" time="0.063"/>
+</testsuite>
